@@ -3,7 +3,7 @@
 ## Download
 
 ```
-Download ZIP or git clone git@github.com:WelingtonCarlos/vue-coinwel.git
+Download ZIP or git clone git@github.com:WelingtonCarlos/vue-crypto-wel-source.git
 ```
 
 ## Project setup
