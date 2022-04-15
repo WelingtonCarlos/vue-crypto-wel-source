@@ -27,7 +27,7 @@ yarn serve ou npm run serve for init serve
 | [vue-cli]    | [![vue-cli-status]][vue-cli-package]       | Project scaffolding             |
 | [axios]      | [![npm version]][axios-package]            | Used to consume the API         |
 
-[vue-router]: https://github.com/vuejs/vue-router
-[vuex]: https://github.com/vuejs/vuex
-[vue-cli]: https://github.com/vuejs/vue-cli
+[vue-router-package]: https://www.npmjs.com/package/vue-router
+[vuex-package]: https://www.npmjs.com/package/vuex
+[vue-cli-package]: https://www.npmjs.com/package/@vue/cli
 [axios-package]: https://www.npmjs.org/package/axios
