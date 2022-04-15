@@ -2,7 +2,7 @@
 
 ## WEBSITE
 
-[COIN-WEL](https://welingtoncarlos.github.io/vue-crypto-wel/)
+- [COIN-WEL](https://welingtoncarlos.github.io/vue-crypto-wel/)
 
 
 ## Download
